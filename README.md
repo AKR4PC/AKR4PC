@@ -1,4 +1,5 @@
-<h4 align="left">Hi 👋! My name is Akshat and I’m currently honing my skills to become a full-stack developer and working on my portfolio website [webpage](https://portfolio-website-akshat.vercel.app)</h4>
+# Hello World!, I'm Akshat, an Indian Web Developer 👋🏼:
+🛜 currently working on my own [webpage](https://portfolio-website-akshat.vercel.app)<br>👨🏼‍🎓 studying B.Tech Computer Science student at G.B. Pant Govt. Engineering College<br>👨🏼‍💻 I'm passionate about web development, backend programming, and leveraging technology to create meaningful projects. With a solid foundation in C, Python, HTML, CSS, and JavaScript, I’m continuously exploring new technologies like Kubernetes, AI, and Web3 to build projects that make a real impact. <br>
 
 ###
 
